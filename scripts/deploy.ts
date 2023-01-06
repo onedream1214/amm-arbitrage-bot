@@ -1,5 +1,8 @@
 import { ethers, run } from 'hardhat';
 
+const hre = require('hardhat');
+require('hardhat-gas-report')(hre);
+
 import deployer from '../.secret';
 
 // WBNB address on BSC, WETH address on ETH

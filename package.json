@@ -35,6 +35,7 @@
     "axios": "^0.21.1",
     "lodash": "^4.17.21",
     "lodash.combinations": "^18.10.0",
+    "hardhat-gas-report": "^1.1.12",
     "winston": "^3.3.3"
   }
 }
